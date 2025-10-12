@@ -273,6 +273,9 @@
         <mxCell id="Y5SOhLk5kEH37UTc9Dix-84" value="Texto" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="179" y="250" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Y5SOhLk5kEH37UTc9Dix-86" value="Item" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="680" width="441" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
